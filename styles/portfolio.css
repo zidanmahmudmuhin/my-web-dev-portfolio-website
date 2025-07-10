@@ -62,6 +62,7 @@ nav ul li a{
     background-image: url("../images/developer.png"), url("../images/header_bg.png");
     background-repeat: no-repeat;
     background-position: top left, bottom right;
+    background-color: #FFF8F3;;
 }
 
 #banner{
@@ -97,4 +98,54 @@ nav ul li a{
 .banner-image{
     width: 584px;
     height: 676px;
+}
+
+                           /* Three Two */
+                             /* About */
+main{
+    max-width: 1140px;
+    margin: 0px auto;
+} 
+
+#about{
+    background-color: #FFF8F3;;
+    border-radius: 10px;
+    padding: 130px 150px;
+    text-align: center;
+    margin-top: 130px;
+}
+
+#about-me-container{
+    background-color: #FFFFFF;
+    border: 1px solid black;
+    padding-right: 5px;
+    padding-left: 5px;
+
+}
+
+.section-title{
+    color: #181818;
+    font-size: 35px;
+    font-weight: bold;
+    margin-top: 0px;
+}
+
+.section-descrption{
+    color: #757575;
+    font-size: 18px;
+}
+
+#about-my-infotmation{
+    display: flex;
+    justify-content: space-around;
+}
+
+.iteam-title{
+    font-size: 20px;
+    color: #757575;
+}
+
+.iteam-discription{
+    font-size: 20px;
+    font-weight: bold;
 }
