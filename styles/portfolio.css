@@ -239,3 +239,15 @@ main{
     text-align: center;
     margin-top: 50px;
 }
+                                  /* part six
+                                    footer */
+#background-color{
+    background-color: #FFF8F3;
+    padding: 130px 230px;
+    display: flex;
+    gap: 100px;
+}
+
+.footer-column{
+    width: 50%;
+}
