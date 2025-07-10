@@ -74,6 +74,7 @@ nav ul li a{
     color: #474747;
     font-size: 45px;
     font-weight: 600;
+    margin-bottom: 0px;
 }
 
 .banner-content{
@@ -82,8 +83,10 @@ nav ul li a{
 
 .banner-title{
     /* color: #181818; */
-    font-size: 85px;
+    font-size: 78px;
     font-weight: bold;
+    margin-top: 5px;
+    margin-bottom: 20px;
 }
 
 .banner-description{
