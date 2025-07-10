@@ -100,7 +100,7 @@ nav ul li a{
     height: 676px;
 }
 
-                           /* Three Two */
+                           /* Part Three */
                              /* About */
 main{
     max-width: 1140px;
@@ -111,7 +111,6 @@ main{
     background-color: #FFF8F3;;
     border-radius: 10px;
     padding: 130px 150px;
-    text-align: center;
     margin-top: 130px;
 }
 
@@ -120,6 +119,7 @@ main{
     border: 1px solid black;
     padding-right: 5px;
     padding-left: 5px;
+    text-align: center;
 
 }
 
@@ -148,4 +148,41 @@ main{
 .iteam-discription{
     font-size: 20px;
     font-weight: bold;
+}
+
+                           /* Part Four */
+                            /* Skills */
+#my-skills{
+    margin-top: 130px;
+    /* margin-bottom: 130px; */
+}
+
+.text-center{
+    text-align: center;
+    padding-left: 157px;
+    padding-right: 157px;
+}
+
+#skills-container{
+    display: flex;
+    gap: 24px;
+}
+
+.skill{
+    text-align: center;
+    margin-top: 50px;
+    padding: 30px;
+    border-radius: 5px;
+    /* background-color: rgb(242, 198, 198); */
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06)
+}
+
+.skill-title{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.skill-description{
+    font-size: 16px;
+    color: #757575;
 }
