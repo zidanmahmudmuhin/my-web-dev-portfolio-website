@@ -238,10 +238,11 @@ main{
 .btn-centre{
     text-align: center;
     margin-top: 50px;
+    margin-bottom: 113px;
 }
                                   /* part six
                                     footer */
-#background-color{
+#footer{
     background-color: #FFF8F3;
     padding: 130px 230px;
     display: flex;
@@ -250,4 +251,15 @@ main{
 
 .footer-column{
     width: 50%;
+}
+
+footer input[type="text"], footer input[type="email"], footer textarea {
+    height: 64px;
+    border-radius: 5px;
+    border: none;
+    background-color: white;
+    display: block;
+    width: 100%;
+    padding: 10px 20px;
+    margin-bottom: 24px;
 }
